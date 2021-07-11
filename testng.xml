@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CDRS-DB2-Connection" parallel="false">
+	<test name="database connection test">
+		<classes>
+			<class name="databaseConnectionTest.Db2Test" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
