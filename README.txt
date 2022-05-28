@@ -8,7 +8,7 @@ please update following in db2.properties
 
 		serverName		=	serverName
 		port			=	port
-		databaseName	=	databaseName
+		databaseName		=	databaseName
 		
 		###  userName and password for DB2 ###
 		username		=	username
